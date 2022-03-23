@@ -3,7 +3,7 @@
 ## 0. Graphical illustration of task  
 Goal: To find the path which maximizes some of weights.     
 The picture below represents a solution calculated from dynamic programming, which is actually an optimal solution in this case.     
-However, I implemented both the greedy algorithm and dynamic programming to solve this task to see in detail which difference occurs between solutions from two algorithms.     
+However, I implemented both the greedy algorithm and dynamic programming to solve this task to see in detail which difference occurs between solutions from these two algorithms.     
 ![Manhattan_Tourist_Problem](https://user-images.githubusercontent.com/86412887/159647645-549b686f-69bb-4558-be4f-3cb2d63d8ce2.png)     
 (Reference: O'Connell, Jonathan F. A dynamic programming model to solve optimisation problems using GPUs. Diss. Cardiff University, 2017.)     
 
