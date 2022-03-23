@@ -9,4 +9,4 @@
 ## 2. Dynamic Programming     
 
 ## Goal: To implement both algorithms and see which one gives optimal solution.     
-(Both algorithms are implemented in 'Manhattan_Tourist_Problem.py' in current repository, jwyang21/Dynamic_Programming/Manhattan_Tourist_Problem/).
+(Both algorithms are implemented in 'Manhattan_Tourist_Problem.py' in current repository, **jwyang21/Dynamic_Programming/Manhattan_Tourist_Problem/**).
