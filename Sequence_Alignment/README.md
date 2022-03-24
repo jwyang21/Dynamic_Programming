@@ -13,3 +13,5 @@
 ## Plus, one additional task     
 
 ### 4. Longest Common Sequence     
+![LCS](https://user-images.githubusercontent.com/86412887/159856600-67ab4836-76dc-4aa1-9695-8eb34b6dacee.png)     
+(Reference: https://medium.com/@nishargishah169/longest-common-subsequences-detailed-overview-922714e51b3f)
