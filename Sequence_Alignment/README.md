@@ -1,4 +1,4 @@
-## This folder is to implement biological sequence alignments.     
+## Implementation of biological sequence alignments.     
 
 ### 1. Global Sequence Alignment(Needleman-Wunsch Algorithm)    
 ![Needleman-Wunsch algorithm](https://user-images.githubusercontent.com/86412887/159856082-31413207-7956-45d7-b6fa-1ce79fd26a8c.png)         
