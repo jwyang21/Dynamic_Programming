@@ -55,7 +55,7 @@ def SW_backtrace(x,y,S,sbt,d):
     while current_x>0 and current_y>0:
         if S[current_x][current_y]==0: break
         elif S[current_x][current_y]==S[current_x-1][current_y-1]+sbt[str(x[current_x-1]+y[current_y-1])]:
-            alignment.append(x[current_x-1])
+            alignment.append(y[current_y-1])
             current_x-=1
             current_y-=1
         elif S[current_x][current_y]==S[current_x-1][current_y]+d:
