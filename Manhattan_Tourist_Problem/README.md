@@ -2,7 +2,7 @@
 
 ## 1. Graphical illustration of task  
 Task: To find the path which maximizes some of weights.   
-![Manhattan_Tourist_Problem_Greedy](https://user-images.githubusercontent.com/86412887/159857339-2aceaae1-6d82-47b7-b683-adcb67c92aa6.png)     
+![Manhattan_Tourist_Problem_Illustration](https://user-images.githubusercontent.com/86412887/159857790-d37c454c-55e9-4e57-8de0-eb78019d0322.png)         
 (Reference: https://blog.naver.com/PostView.naver?blogId=leeinje66&logNo=221945492509)   
 ## 2. Illustration of Greedy Algorithm     
 ![Manhattan_Tourist_Problem_Greedy](https://user-images.githubusercontent.com/86412887/159857339-2aceaae1-6d82-47b7-b683-adcb67c92aa6.png)     
