@@ -1,4 +1,5 @@
 ## To solve Manhattan Tourist Problem in two different ways and look for optimal solution.     
+(Two algorithms illustrated below are both implemented in 'Manhattan_Tourist_Problem.py' in current repository, **jwyang21/Dynamic_Programming/Manhattan_Tourist_Problem/**).     
 
 ## 1. Graphical illustration of task  
 Task: To find the path which maximizes some of weights.   
@@ -10,6 +11,3 @@ Task: To find the path which maximizes some of weights.
 ## 3. Illustration of Dynamic Programing    
 ![Manhattan_Tourist_Problem_DP](https://user-images.githubusercontent.com/86412887/159857275-91ca05c3-7223-45f2-a679-c527923ab25a.png)     
 (Reference: O'Connell, Jonathan F. A dynamic programming model to solve optimisation problems using GPUs. Diss. Cardiff University, 2017.)     
-
-## Goal: To implement both algorithms and see which one gives optimal solution.     
-(Both algorithms are implemented in 'Manhattan_Tourist_Problem.py' in current repository, **jwyang21/Dynamic_Programming/Manhattan_Tourist_Problem/**).
