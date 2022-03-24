@@ -1,8 +1,8 @@
 ## This folder is to implement biological sequence alignments.     
 
 ### 1. Global Sequence Alignment(Needleman-Wunsch Algorithm)    
-![Needleman-Wunsch algorithm](https://user-images.githubusercontent.com/86412887/159855727-fe63c7e9-c2cd-4f78-b04c-2ba44ecb6db4.png)     
-(Reference: Gauthier, Jeff & Vincent, Antony & Charette, Steve & Derome, Nicolas. (2018). A Brief History of Bioinformatics. Briefings in Bioinformatics. 2018. 1-16. 10.1093/bib/bby063.)     
+![Needleman-Wunsch algorithm](https://user-images.githubusercontent.com/86412887/159856082-31413207-7956-45d7-b6fa-1ce79fd26a8c.png)         
+(Reference: https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm)     
 
 ### 2. Local Sequence Alignment(Smith-Waterman Algorithm)     
 ![Smith_Waterman_algorithm](https://user-images.githubusercontent.com/86412887/159854751-5cd6e873-a3db-4ccc-a618-a8930dd307c0.png)     
