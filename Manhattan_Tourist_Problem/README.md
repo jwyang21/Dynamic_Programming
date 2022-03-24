@@ -1,4 +1,4 @@
-## To solve Manhattan Tourist Problem in two different ways     
+## To solve Manhattan Tourist Problem in two different ways and look for optimal solution.     
 
 ## 1. Graphical illustration of task  
 Task: To find the path which maximizes some of weights.   
