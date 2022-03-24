@@ -95,13 +95,7 @@ LCS = backtrace(S, x, y)
 print("Longest Common Sequence between x={} and y={} is {}.".format(x, y, LCS))
 
 
-# In[13]:
 
-
-get_ipython().system('jupyter nbconvert --to script [Exercise]LCS.ipynb')
-
-
-# In[ ]:
 
 
 
